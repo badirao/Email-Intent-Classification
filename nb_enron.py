@@ -45,7 +45,7 @@ def Normalize(data):
     return traindata, labels
     
 
-
+print "print one more"
     
     
 
