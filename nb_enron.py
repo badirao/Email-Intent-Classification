@@ -18,7 +18,7 @@ with open('test.txt') as f:
     test = f.readlines()
 testRaw = [x.strip() for x in test]
 
-
+print "ksksksksksksksksksksksksksksksk"
 #Paper suggested normalizing
 def Normalize(data):
     labels = [i.split('\t', 1)[0] for i in data]
